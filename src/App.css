@@ -1,0 +1,101 @@
+.App {
+  text-align: center;
+}
+/* NAV */
+.header{
+  background-color:#f6ecdc !important;
+}
+.logo{
+  color:#f8601c !important;
+  text-transform: uppercase;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 22px;
+  font-weight: bold ;
+  
+}
+.nav_item{
+  color:#9c9998;
+  margin-left: 15px;
+  font-size: 18px;
+  font-weight: bold;
+}
+.nav_item:hover{
+  color: black  !important;
+  font-weight: bold;
+  transition: 200mpx;
+}
+
+/* WELCOME */
+.defaultColor{
+  color:#f8601c !important;
+}
+.play_icon{
+  background-color:#f8601c !important; 
+  color:#eff;
+  padding: 15px;
+  border-radius: 50%;
+}
+.con{
+  color:#f8601c !important;
+  font-size: 50px;
+  
+}
+/* PORFOLIO */
+.rasm{
+  padding-top: 30px;
+  width: 100%;
+}
+.rasm:hover{
+ width: 99.8%;
+}
+
+/* TEST */
+.rad{
+  border-radius: 50% !important;
+}
+.rang{
+  background-color:#f8e7df  !important ;
+}
+.rasmer{
+  color:#f08e65 !important;
+  font-size: 15px;
+  font-weight: bold;
+}
+.Ong{
+  margin-right: 25px;
+  color: #8d8583  !important;
+}
+.kulirang{
+  color: #8d8583  !important;
+}
+
+/* BLOG */
+
+.umumiyR{
+  background-color:#f6ecdc  !important;
+}
+.bordeR{
+  border-radius: 50%  !important;
+  padding: 20px;
+}
+.ortaga{
+  padding: auto 1px;
+  font-size: 20px;
+}
+
+/* COFT */
+.orqasi{
+  background-color:#9c9998;
+  border-radius: 5px;
+  padding: 5px;
+  width: 100px;
+  height: 100px;
+  color: #eff;
+}
+
+/* MONARCH */
+.mon{
+  color:#f08e65 !important;
+}
+   
+
